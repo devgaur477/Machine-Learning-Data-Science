@@ -1,0 +1,6 @@
+This is prediction made by using the help of polynomial Regression technique.Input can be changed through y_pred method. For an example
+I have taken what will be the number of cases in next month that is 6. The prediction value if 204576.
+
+I have tried using all regression techniques out of which polynomial was providing the most accurate value.
+
+
